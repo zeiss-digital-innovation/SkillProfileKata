@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="acceptance-test"/>
+	<classpathentry kind="src" path="performance-test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SkillProfileAPI"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SkillProfileAnnettUndDaniel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SkillProfileJosephUndRaik"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SkillProfileMihailUndMichael"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SkillProfileRalfUndDaniel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SkillProfileSebastianUndKai"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

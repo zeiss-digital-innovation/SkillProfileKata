@@ -1,0 +1,25 @@
+ProfileFactory
+	erzeugt Profil aus java.util.File
+	
+ProfileManagerImpl
+	implementert ProfileManager
+	nutzt ProfileFactory 
+	
+erledigt:
+ProfileImpl
+	alles drin
+	getEmployeeId ist schon da
+	getEmployeeName
+	getEmployeeSkills
+	getEmployeeProjects
+Skills-Klasse
+	getTechnology
+	getSkillLevel
+Technology -> getName
+Project-Klasse
+	getProjectName
+	getCustomerName
+	getProjectPeriod
+	getTechnology
+ProjektPeriod-Klasse
+	getFromDate; getToDate
